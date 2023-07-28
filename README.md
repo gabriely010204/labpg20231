@@ -6,4 +6,4 @@ Laboratório de Programação - Repositório da Disciplina  de Programação Tur
 2. Clone o Repositório 
 git clone http://github.com/gabriely010204/labpg20231
 3. Acesse a pasta do projeto 
-cd labpg20231
+cd labpg20232
